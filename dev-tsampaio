@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usando todas as tags</title>
+<style>
+    body {
+        margin: 0;
+    }
+
+p, h3, h1 {
+    text-align: center;
+}
+
+ul li {
+    text-align: center;
+    list-style-position: inside;
+}
+
+</style>
+</head>
+<body>
+<fieldset>
+<h1>Thales Lopes Sampaio</h1>
+<p>Vila da Penha, Rio de janeiro - RJ. | <b>Celular:</b> (021) 96403-6308.</p>
+<p><b>E-mail: </b> thaleslopessampaio.ti@hotmail.com | <b>Linkedin:</b> www.linkedin.com/in/thalessampaioti</p>   
+<hr>
+<h3>OBJETIVO:</h3>
+<p>Atuar na área de Tecnologia da Informação, com foco em suporte técnico, infraestrutura de redes ou 
+serviços administrativos de TI, contribuindo com a estabilidade dos sistemas e a melhoria contínua 
+dos processos de tecnologia da organização. </p>
+
+<h3>HABILIDADADES TÉCNICAS: </h3>
+<p>Técnico em Informática | Suporte Técnico | Manutenção preventiva/corretiva | Infraestrutura de Redes | 
+Administração de Sistemas | Segurança da Informação | Cibersegurança | Administração de Sistemas | 
+Administração de Redes | Auxiliar Administrativo</p>
+
+<h3>SOFT SKILLS:</h3>
+<p>Raciocínio Analítico | Resolução de Problemas | Comunicação Técnica | Trabalho em Equipe | Foco em 
+Resultados | Organização | Adaptabilidade | Tomada de Decisão | Gestão do Tempo | Aprendizado Contínuo | 
+Aprendizado rápido | Pontualidade | Comprometimento</p>
+
+<h3>FORMAÇÃO ACADÊMICA:</h3>
+    <ul>
+        <li>Bacharelado em Ciência da Computação  – Centro Universitário Augusto Motta , UNISUAM. (conclusão 
+em  julho/2026). </li>
+    </ul>
+
+    <h3>CURSOS COMPLEMENTARES</h3>
+    <ul>
+        <li>Técnico em Informática –  Senac RJ (concluído em 2018).</li>
+        <li>IT Service Management: Gestão de serviços de TI (ITSM/GSTI) – Udemy (concluído em 2025). </li>
+        <li>Redes TCP/IP –  Udemy (concluído em 2024).</li>
+        <li>Ethical Hacking com Kali Linux / Nmap / Metasploit – Udemy (concluído em 2024). </li>
+        <li>Segurança em TI -  Fundação Bradesco (concluído em 2024). </li>
+        <li>Excel Intermediário - Santander Open Academy (concluído em 2025). </li>
+    </ul>
+
+<h3>CERTIFICAÇÕES</h3>
+<ul>
+    <li>IT Essentials – Cisco Networking Academy. </li>
+</ul>
+<hr>
+<h3>INFORMAÇÕES ADICIONAIS</h3>
+<ul>
+    <li>CNH Categoria AB. </li>
+    <li>Inglês Intermediário (escrita e leitura).</li>
+    <li> Disponibilidade para trabalho remoto e presencial.</li>
+</ul>
+</fieldset>
+</body>
+</html>
